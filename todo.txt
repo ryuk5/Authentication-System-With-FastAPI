@@ -1,0 +1,5 @@
+RQ:
+You can name the env vars in the settings > settings.py file using uppercase letters
+to make it more clear using the case sensetive option.
+
+check: https://github.com/tiangolo/full-stack-fastapi-postgresql
